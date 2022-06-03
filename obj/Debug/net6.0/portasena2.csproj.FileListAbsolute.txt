@@ -1,0 +1,15 @@
+C:\Users\AdminSena\Documents\portasena2\portasena2\bin\Debug\net6.0\portasena2.exe
+C:\Users\AdminSena\Documents\portasena2\portasena2\bin\Debug\net6.0\portasena2.deps.json
+C:\Users\AdminSena\Documents\portasena2\portasena2\bin\Debug\net6.0\portasena2.runtimeconfig.json
+C:\Users\AdminSena\Documents\portasena2\portasena2\bin\Debug\net6.0\portasena2.dll
+C:\Users\AdminSena\Documents\portasena2\portasena2\bin\Debug\net6.0\portasena2.pdb
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.csproj.AssemblyReference.cache
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.AssemblyInfoInputs.cache
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.AssemblyInfo.cs
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.dll
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\refint\portasena2.dll
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.pdb
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\portasena2.genruntimeconfig.cache
+C:\Users\AdminSena\Documents\portasena2\portasena2\obj\Debug\net6.0\ref\portasena2.dll
